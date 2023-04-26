@@ -1,9 +1,12 @@
-- Fikset en fejl, der gør at man ikke kunne tilgå sin lejlighed.
-- Fikset en fejl, der gjorde man ikke kunne fiske.
-- Samtlige andre små fejl er ordnet.
-- Fikset en fejl ved fængslet.
-- Tilføjet kørestole til lægernes lager som de kan anvende til RP.
-- Tilføjet nyt kamera script til politiets helikopter.
-- Tilføjet en ny progressbar. (Lad os høre hvad I synes om den)
-- Tilføjet en lægetaske til lægelageret.
-- Tilføjet bowling.
+Telefon
+- Opdateret generelt (køre bedre, flottere grafik mm.)
+- Fikset forskellige fejl, e.g. at man ikke kan upload eksterne links på Instagram stories.
+- Hvert firma kan nu vælge om de vil have mulighed for telefonopkald/beskeder
+- Politiet har som udgangspunkt fået fjernet muligheden for at ringe til dem (brug nu /911)
+Evidence
+- Man kan nu uplaode billeder direkte til en rapport fra kameraet.
+- Man efterlader nu fingeraftryk på våben.
+- Der er tilføjet nye items i hardwarebutikker, som du kan bruge til at fjerne fingeraftryk fra våben eller fjerne andre beviser.
+- Mange andre små tilføjelser.
+Regninger/Bøder
+- Betalte bøder bliver nu automatisk fjernet hver halve time. Det burde ikke længere tage 100 år at åbne Chef-menuen til at fjerne bøder :)
